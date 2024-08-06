@@ -1,13 +1,13 @@
-# Firestorm Player Monitor
-This Python program watches FireStorm community servers and notifies you if/where suspicious players join.<br>
+# BFV-Tools Avoid v0.1
+This Python script watches Firestorm community servers and notifies you if/where suspicious players join.<br>
 It features:<br>
 - A list of all FireStorm servers and their current players
 - A constantly updating log of suspicious players joining FireStorm servers
 - A game overlay displaying flagged players
 
 ## For players:
-- Download Python from https://www.python.org/downloads/ and run the installer.
-- On this site, click the green "Code" button, then click "Download ZIP"
+- Download Python from [here](https://www.python.org/downloads/) and run the installer.
+- Download the latest major release of Avoid from [here](https://github.com/bfv-tools/Avoid/archive/refs/tags/Major.zip)
 - Find the downloaded zip file and extract it into a folder of your choice
 - In that folder, open the file named "BFV_Avoid.py"
 - In your Battlefield V video settings, switch window mode to Borderless
